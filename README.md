@@ -15,6 +15,7 @@
 alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
+
 ## 🎓Languages:
 <p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="java" width="40" height="40"/> </a> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></p>
 
@@ -27,11 +28,6 @@ alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 
 ## 🏆 My Github Stats:
 
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=rishjaiswal&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=rishjaiswal&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=rishjaiswal&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=rishjaiswal&hide=php&theme=tokyonight" />
-</a>
-</div>
+![github stats](https://github-readme-stats.vercel.app/api?username=rishjaiswal&hide=["issues"]&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishjaiswal&hide=TeX&layout=compact)
